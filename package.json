@@ -1,0 +1,12 @@
+{
+    "name": "devops-challenge",
+    "version": "1.0.0",
+    "description": "WillDevp DevOps Challenge",
+    "main": "hello.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
